@@ -9,7 +9,7 @@
   },
   "source": {
     "git": "https://github.com/harryworld/ios-rrule_parser.git",
-    "tag": "0.2.0"
+    "tag": "0.2.1"
   },
   "platforms": {
     "ios": "5.0",
