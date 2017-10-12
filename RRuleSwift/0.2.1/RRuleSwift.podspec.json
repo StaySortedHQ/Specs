@@ -1,0 +1,26 @@
+{
+  "name": "RRuleSwift",
+  "version": "0.2.0",
+  "license": "MIT",
+  "summary": "Swift rrule library for working with recurrence rules of calendar dates.",
+  "homepage": "https://github.com/StaySortedHQ/RRuleSwift",
+  "authors": {
+    "Xin Hong": "support@teambition.com"
+  },
+  "source": {
+    "git": "https://github.com/StaySortedHQ/RRuleSwift.git",
+    "tag": "0.2.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "watchos": "2.0"
+  },
+  "source_files": [
+    "Sources/*.swift"
+  ],
+  "resources": [
+    "Sources/lib/*.js"
+  ],
+  "requires_arc": true,
+  "module_name": "RRuleSwift"
+}
