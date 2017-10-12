@@ -16,7 +16,9 @@
     "watchos": "2.0"
   },
   "source_files": [
-    "Sources/*.swift",
+    "Sources/*.swift"
+  ],
+  "resources": [
     "Sources/lib/*.js"
   ],
   "requires_arc": true,
