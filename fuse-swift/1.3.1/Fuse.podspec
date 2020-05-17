@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Fuse'
-  s.version          = '1.3.1'
+  s.version          = '1.3.2'
   s.summary          = 'Fuzzy searching.'
   s.description      = <<-DESC
   A lightweight fuzzy-search library, with zero dependencies
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/krisk/fuse-swift'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Kiro Risk' => 'kirollos@gmail.com' }
-  s.source           = { :git => 'https://github.com/krisk/fuse-swift.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/krisk/fuse-swift.git', :tag => '1.3.1' }
   s.social_media_url = 'https://twitter.com/kirorisk'
 
   s.ios.deployment_target = '8.0'
