@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/krisk/fuse-swift'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Kiro Risk' => 'kirollos@gmail.com' }
-  s.source           = { :git => 'https://github.com/krisk/fuse-swift.git', :tag => '1.3.1' }
+  s.source           = { :git => 'https://github.com/StaySortedHQ/fuse-swift.git', s.version.to_s }
   s.social_media_url = 'https://twitter.com/kirorisk'
 
   s.ios.deployment_target = '8.0'
